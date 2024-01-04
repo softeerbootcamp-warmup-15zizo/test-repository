@@ -1,3 +1,1 @@
-this is a repository
-
-choi
+This is a Repository
